@@ -1,0 +1,5 @@
+rootProject.name = 'HomeworkOpenFeign'
+include 'customer'
+include 'product'
+include 'order'
+
